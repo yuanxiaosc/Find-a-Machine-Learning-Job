@@ -1,6 +1,10 @@
 # find_a_NLP_work 找一份自然语言处理的工作
 **Job-hunting，找工作，找工作，找工作**
 
+## 找工作的基础知识
+
+[程序员的自我修养-关于工作](https://www.kancloud.cn/kancloud/a-programmer-prepares/78238)
+
 ## 工作
 
 ### [字节跳动](https://job.bytedance.com/intern)
