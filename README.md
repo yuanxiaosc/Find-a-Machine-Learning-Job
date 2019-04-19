@@ -11,9 +11,13 @@
 
 
 ## 避免采坑
+996 工作制：即每天早 9 点到岗，一直工作到晚上 9 点。每周工作 6 天。
 
-1. [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
-2. [工作从 996 到 ICU](https://github.com/996icu/996.ICU)
+955 工作制：即每天早 9 点到岗，一直工作到下午 5 点。每周工作 5 天。
+
++ [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
++ [工作从 996 到 ICU](https://github.com/996icu/996.ICU)
++ [955 work–life balance (工作与生活的平衡)](https://github.com/formulahendry/955.WLB)
 
 ## 面试笔记
 
