@@ -1,8 +1,9 @@
 # Find-a-Machine-Learning-Job 找一份机器学习的工作
 
-+ 我的简历 https://yuanxiaosc.github.io/about/index/四川大学袁宵的简历.pdf
-+ 我总结的 [机器学习中的常识性问题](https://yuanxiaosc.github.io/categories/机器学习中的常识性问题/)
-+ 我的博客 [望江人工智库](https://yuanxiaosc.github.io/)
++ 简历：[四川大学袁宵的简历（在线网页版）](https://yuanxiaosc.github.io/about/) | [四川大学袁宵的简历（PDF版）](https://yuanxiaosc.github.io/about/index/四川大学袁宵的简历.pdf)
++ 期望职位：机器学习算法工程师（NLP/CV/KG）
++ 我总结的： [机器学习中的常识性问题（在线网页版）](https://yuanxiaosc.github.io/categories/机器学习中的常识性问题/) | [机器学习中的常识性问题（PDF版）](机器学习中的常识性问题.pdf)
++ 我的博客： [望江人工智库](https://yuanxiaosc.github.io/)
 
 ## 找工作的基础知识
 
@@ -64,5 +65,3 @@
 
 [深圳市大疆创新科技有限公司 百度百科](https://baike.baidu.com/item/%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%A4%A7%E7%96%86%E5%88%9B%E6%96%B0%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
 > 深圳市大疆创新科技有限公司（DJ-Innovations，简称DJI），2006年由香港科技大学毕业生汪滔等人创立，是全球领先的无人飞行器控制系统及无人机解决方案的研发和生产商，客户遍布全球100多个国家。通过持续的创新，大疆致力于为无人机工业、行业用户以及专业航拍应用提供性能最强、体验最佳的革命性智能飞控产品和解决方案。
-
-
